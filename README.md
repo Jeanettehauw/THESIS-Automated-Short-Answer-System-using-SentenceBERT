@@ -8,8 +8,6 @@ Implementation if Automated Short Answer System using SentenceBERT\
 4. remove URL, emails, number, symbols, and extra whitespace
 
 ## Done Trial
-|---|---|
-|Model | 
-|sBERT all-MiniLM-L6-v2 + Linear Regression |
-|sBERT all-MiniLM-L6-v2 + feature engineering + Linear Regression | 
-|sBERT all-mpnet-base-v2 + feature engineering + Linear Regression | 
+1. sBERT all-MiniLM-L6-v2 + Linear Regression 
+2. sBERT all-MiniLM-L6-v2 + feature engineering + Linear Regression 
+3. sBERT all-mpnet-base-v2 + feature engineering + Linear Regression  
